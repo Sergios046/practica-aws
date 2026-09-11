@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Practica AWS - Miguel Lopez</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin-top: 100px; background-color: #f4f6f9; }
+        .card { background: white; padding: 30px; border-radius: 10px; display: inline-block; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+        h1 { color: #232f3e; }
+        span { color: #ff9900; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>¡Interfaz Desplegada con Éxito en <span>AWS Amplify</span>!</h1>
+        <p><strong>Alumno:</strong> Miguel Angel Lopez Ramirez</p>
+        <p>Práctica de Arquitectura en la Nube y CI/CD</p>
+    </div>
+</body>
+</html>
